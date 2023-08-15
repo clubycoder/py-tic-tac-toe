@@ -1,2 +1,3 @@
-# py-tic-tac-toe
-Simple terminal tic-tac-toe game
+# Python Tic-Tac-Toe Game
+
+Simple terminal tic-tac-toe game with unittests.
